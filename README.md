@@ -1,9 +1,9 @@
 ![This is an image](utils/Banner.png)
-# Hola!
-# *Soy Kimey Mastrángelo me encanta el mundo de la programación y disfruto de aprender contantemente*
+ # Hola!
+ ### *Soy Kimey Mastrángelo me encanta el mundo de la programación y disfruto de aprender contantemente*
 
 
-# Tecnologías que utilizo:
+ Tecnologías que utilizo:
 
 <p>
     <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML" > <img src = "utils/icons/html5.svg" alt="html5" width='40' height = '40'> </a>
@@ -23,4 +23,4 @@
     
 </p>
 
-# y muchas más por aprender!
+ y muchas más por aprender!
