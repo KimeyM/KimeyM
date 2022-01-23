@@ -13,7 +13,7 @@
     <a href = "https://redux.js.org/" > <img src = "utils/icons/redux.svg" alt="redux" width='40' height = '40'> </a>
     <a href = "https://expressjs.com/" > <img src = "utils/icons/express.svg" alt="express" width='80' height = '40'  style = 'background:#fff'> </a>
     <a href = "https://nodejs.org/en/" > <img src = "utils/icons/nodejs.svg" alt="node" width='40' height = '40'> </a>
-    <a href = "https://www.postman.com/" > <img src = "utils/icons/postman.svg" alt="postman" width='40' height = '40'> </a>
+    <a href = "https://www.postman.com/" > <img src = "utils/icons/postman.svg" alt="postman" width='37' height = '37'> </a>
     <a href = "https://getbootstrap.com/" > <img src = "utils/icons/bootstrap.svg" alt="bootstrap" width='40' height = '40'> </a>
     <a href = "https://git-scm.com/" > <img src = "utils/icons/git.svg" alt="git" width='40' height = '40'> </a>
     <a href = "https://github.com//" > <img src = "utils/icons/github.svg" alt="github" width='40' height = '40'> </a>
