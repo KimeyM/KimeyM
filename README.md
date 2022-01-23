@@ -20,8 +20,6 @@
     <a href = "https://postgresql.org/" > <img src = "utils/icons/postgresql.svg" alt="postgresql" width='40' height = '40'> </a>
     <a href = "https://sequelize.org/" > <img src = "utils/icons/sequelize.svg" alt="sequelize" width='40' height = '40'> </a>
     <a href = "https://reactrouter.com/" > <img src = "utils/icons/reactrouter.svg" alt="reactrouter" width='40' height = '40' style = 'background:#fff'> </a>
-    <a href = "https://sass-lang.com/" > <img src = "utils/icons/sass.svg" alt="sass" width='40' height = '40'> </a>
-    <a href = "https://styled-components.com/" > <img src = "utils/icons/styledcomponents.svg" alt="styled components" width='40' height = '40' style = 'background:#fff'> </a>
 
 </p>
 
