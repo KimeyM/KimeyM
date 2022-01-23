@@ -1,6 +1,6 @@
 ![This is an image](utils/Banner.png)
 # Hola!
-### *Soy Kimey Mastrángelo me encanta el mundo de la programación y disfruto de aprender contantemente*
+## *Soy Kimey Mastrángelo me encanta el mundo de la programación y disfruto de aprender contantemente*
 
 
 ## Tecnologías que utilizo:
@@ -23,4 +23,4 @@
     
 </p>
 
-### ...and eager to learn much more!
+### y muchas más por aprender!
