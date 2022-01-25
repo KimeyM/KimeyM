@@ -2,9 +2,14 @@
  # Hola!
  ### *Soy Kimey Mastrángelo me encanta el mundo de la programación y disfruto de aprender contantemente*
 
+<h3 align="left">Podes encontrarme en</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kimey mastrángelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kimey mastrángelo" height="30" width="40" /></a>
+</p>
 
- Tecnologías que utilizo:
 
+ 
+<h3 align="left">Tecnologías que utilizo:</h3>
 <p>
     <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML" > <img src = "utils/icons/html5.svg" alt="html5" width='40' height = '40'> </a>
     <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS" > <img src = "utils/icons/css3.svg" alt="css3" width='40' height = '40'> </a>
