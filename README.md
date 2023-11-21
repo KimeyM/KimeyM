@@ -1,6 +1,6 @@
-![This is an image](utils/Banner.png)
+![This is an image](utils/banner.png)
  # Hola!
- ### Soy Kimey Mastrángelo me encanta el mundo de la programación y disfruto de aprender contantemente
+ ### Soy Kimey Mastrángelo, Desarrolladora Web, y estudiante de Ingeniería en Sistemas de Información, en la Universidad Tecnológica Nacional - Facultad Regional Rosario.
 
 
 <h4 align="left"><b><i>Podés encontrarme en:</i></b></h3>
