@@ -43,10 +43,10 @@ I'm known for my **organization**, **autonomy**, and **professional commitment**
   <tr>
     <td>🚗 <a href="https://toyota.cl">Toyota</a></td>
     <td>🚗 <a href="https://www.lexus.cl">Lexus</a></td>
-    <td>🚗 <a href="https://kinto-mobility.cl">Kinto Mobility</a></td>
+    <td>⛽ <a href="https://www.aramcoestaciones.cl/">Aramco Estaciones</a></td>
   </tr>
   <tr>
-    <td>⛽ <a href="https://www.aramcoestaciones.cl/">Aramco Estaciones</a></td>
+    <td>🚗 <a href="https://kinto-mobility.cl">Kinto Mobility</a></td>
     <td>🚗 <a href="https://autonauta.cl">Autonauta</a></td>
     <td>⚫ <a href="https://egodesign.io">EGO Design</a></td>
   </tr>
@@ -60,14 +60,6 @@ I'm known for my **organization**, **autonomy**, and **professional commitment**
 ---
 
 ### 📢 Let’s Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/kimey-mastrangelo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kimey.-@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=543415994708">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kimey-mastrangelo/)  
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kimey.-@hotmail.com)  
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://api.whatsapp.com/send/?phone=543415994708)
