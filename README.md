@@ -1,4 +1,4 @@
-![This is an image](utils/banner.png)
+![This is an image](banner.png)
 
 ## 👩🏻‍💻 Kimey Mastrángelo | FullStack Developer
 
