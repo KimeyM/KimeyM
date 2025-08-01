@@ -1,39 +1,73 @@
 ![This is an image](utils/banner.png)
- # Hola!
- ### Soy Kimey Mastrángelo, Desarrolladora Web, y estudiante de Ingeniería en Sistemas de Información, en la Universidad Tecnológica Nacional - Facultad Regional Rosario.
 
+## 👩🏻‍💻 Kimey Mastrángelo | FullStack Developer
 
-<h4 align="left"><b><i>Podés encontrarme en:</i></b></h3>
-<p align="left">
- <a href="https://linkedin.com/in/kimey-mastrangelo" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kimey mastrángelo" height="30" width="40" /></a>
- <b><i> Mi perfil en LinkedIn</i></b>
-</p>
-<p align="left">
- <a href="https://kimey-mastrangelo.vercel.app" target="blank">
-  <img align="center" src="utils/icons/logo.png" alt="kimey mastrángelo" height="35" width="35" /></a>
- <b><i> Mi portafolio</i></b>
-</p>
+Hi there! I'm a FullStack Developer and Information Systems Engineering student with experience in projects for companies like **Toyota**, **Lexus**, **Aramco**, among others. I primarily work with **React**, **Next.js**, **Django**, and **Django REST Framework**, delivering complete solutions from frontend to backend.
 
- 
-<h3 align="center">Tecnologías que utilizo:</h3>
+I'm known for my **organization**, **autonomy**, and **professional commitment**. I also have experience working in agile environments, building reusable components, consuming REST APIs, and customizing CMS platforms like Wagtail.
+
+🌎 Based in Rosario, Argentina — open to remote or hybrid opportunities worldwide.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**<br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+**Frameworks & Libraries**<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Wagtail-43B1B0?style=for-the-badge&logo=wagtail&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+
+**Tools & Testing**<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+
+---
+
+### 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td>🚗 <a href="https://toyota.cl">Toyota</a></td>
+    <td>🚗 <a href="https://www.lexus.cl">Lexus</a></td>
+    <td>🚗 <a href="https://kinto-mobility.cl">Kinto Mobility</a></td>
+  </tr>
+  <tr>
+    <td>⛽ <a href="https://www.aramcoestaciones.cl/">Aramco Estaciones</a></td>
+    <td>🚗 <a href="https://autonauta.cl">Autonauta</a></td>
+    <td>⚫ <a href="https://egodesign.io">EGO Design</a></td>
+  </tr>
+  <tr>
+    <td>🚜 <a href="https://www.sullairargentina.com/">Sullair</a></td>
+    <td>🪞 <a href="https://realfacevalue.eu/">RealFaceValue</a></td>
+    <td>💲 <a href="https://www.max.capital/">MaxCapital</a></td>
+  </tr>
+</table>  
+
+---
+
+### 📢 Let’s Connect
 <p align="center">
-    <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML" > <img src = "utils/icons/html5.svg" alt="html5" width='40' height = '40'> </a>
-    <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS" > <img src = "utils/icons/css3.svg" alt="css3" width='40' height = '40'> </a>
-    <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src = "utils/icons/javascript.svg" alt="Javascript" width='40' height = '40'> </a>
-    <a href = "https://nodejs.org/en/" > <img src = "utils/icons/nodejs.svg" alt="node" width='40' height = '40'> </a>
-    <a href = "https://reactjs.org/" > <img src = "utils/icons/react.svg" alt="react" width='40' height = '40'> </a>
-    <a href = "https://redux.js.org/" > <img src = "utils/icons/redux.svg" alt="redux" width='40' height = '40'> </a>
-    <a href = "https://expressjs.com/" > <img src = "utils/icons/express.svg" alt="express" width='80' height = '40'  style = 'background:#fff'> </a>
-    <a href = "https://postgresql.org/" > <img src = "utils/icons/postgresql.svg" alt="postgresql" width='40' height = '40'> </a>
-    <a href = "https://sequelize.org/" > <img src = "utils/icons/sequelize.svg" alt="sequelize" width='40' height = '40'> </a>
-    <a href = "https://git-scm.com/" > <img src = "utils/icons/git.svg" alt="git" width='40' height = '40'> </a>
-    <a href = "https://github.com//" > <img src = "utils/icons/github.png" alt="github" width='40' height = '40'> </a>
-    <a href = "https://www.postman.com/" > <img src = "utils/icons/postman.svg" alt="postman" width='37' height = '37'> </a>
-    <a href = "https://getbootstrap.com/" > <img src = "utils/icons/bootstrap.svg" alt="bootstrap" width='40' height = '40'> </a>
-    <a href = "https://mui.com/" > <img src = "utils/icons/mui.png" alt="mui" width='40' height = '40'> </a>
-    <a href = "https://tailwindcss.com/" > <img src = "utils/icons/tailwind.png" alt="tailwind" width='40' height = '40'> </a>
-    
+  <a href="https://www.linkedin.com/in/kimey-mastrangelo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kimey.-@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=543415994708">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
-
- <p align="center">y muchas más por aprender!</p>
