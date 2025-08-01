@@ -6,7 +6,7 @@ Hi there! I'm a FullStack Developer and Information Systems Engineering student 
 
 I'm known for my **organization**, **autonomy**, and **professional commitment**. I also have experience working in agile environments, building reusable components, consuming REST APIs, and customizing CMS platforms like Wagtail.
 
-🌎 Based in Rosario, Argentina — open to remote or hybrid opportunities worldwide.
+🌎 Based in Rosario, Argentina — open to remote opportunities worldwide.
 
 ---
 
